@@ -1,0 +1,36 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2.intro {
+  font-style: italic;
+  font-weight: lighter;
+  font-size: medium;
+  text-align: center;
+
+}
+
+p.intro {
+  color: blue;
+  font-weight: bold;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+img.intro {
+  border-radius: 40% ;
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  
+}
+
+#photos {
+  font-size: larger;
+  text-align: center;
+  font-weight: bold;
+}
